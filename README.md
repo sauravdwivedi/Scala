@@ -13,4 +13,4 @@ I write code to solve problems from:
 
 > % scalac <script_name>.scala
 
-> % scala <script_name>.scala
+> % scala <script_name>
